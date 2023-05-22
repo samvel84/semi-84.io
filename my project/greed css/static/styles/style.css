@@ -1,0 +1,45 @@
+html {
+    font-size: 30px;
+}
+
+p {
+    font-size: 2em;
+}
+
+
+div {
+    width: 300px;
+    height: 300px;
+    margin: 4rem;
+    font-size: 0,5rem;
+}
+
+#red {
+    background-color: aquamarine;
+}
+
+#green {
+    background-color: blueviolet;
+}
+#yellow {
+    background-color: blanchedalmond;
+}
+
+#grey {
+    background-color: blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

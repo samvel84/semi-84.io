@@ -1,0 +1,18 @@
+
+
+.main.border-div{
+    background-color: aquamarine;
+    border-style: dotted;
+}
+
+.main {
+    background-color: aqua;
+}
+
+.border-div{
+    border-style: solid;
+
+}
+.main>p{
+    font-size: 35px;
+}
